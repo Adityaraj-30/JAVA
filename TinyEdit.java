@@ -23,3 +23,22 @@ public class TinyEdit {
     }
     
 }
+
+
+/*
+--------Output------
+Enter lines of text. 
+Enter 'stop' to quit. 
+This is line one.
+This is line two.
+Java makes working with strings easy.
+Just create String objects.
+stop
+
+Here is your file: 
+This is line one.
+This is line two.
+Java makes working with strings easy.
+Just create String objects
+
+*/
