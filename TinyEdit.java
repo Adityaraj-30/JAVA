@@ -39,6 +39,6 @@ Here is your file:
 This is line one.
 This is line two.
 Java makes working with strings easy.
-Just create String objects
+Just create String objects.
 
 */
